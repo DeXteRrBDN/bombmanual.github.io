@@ -14,7 +14,7 @@ Unofficial BombManual.com Translations
 
 ### Italian
   * BrightSoul
-  * brugnara
+  * [brugnara](https://www.brugnara.me)
   * jaramir
 
 ### Russian
