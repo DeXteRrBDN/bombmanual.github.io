@@ -1,2 +1,6 @@
+#IDEs
 .DS_Store
 .idea/
+.buildpath
+.project
+.settings
